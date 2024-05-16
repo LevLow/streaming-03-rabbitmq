@@ -130,6 +130,12 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 ## Levi's V1 Listens
 ![v1 listens](./v1%20listen.png)
 
+## Levi's V2 Emit
+![v2 emit](./V2%20emit.png)
+
+## Levi's V2 Listen
+![v2 listen](V2%20listen.png)
+
 
 
 ## Task 9. Save Time & Effort: Don't Repeat Yourself
