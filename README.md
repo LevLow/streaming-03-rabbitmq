@@ -122,6 +122,10 @@ Sending the same message each time is kind of boring. This time:
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
+![v1 emits](./V1%20emit.png)
+![v1 listens](./v1%20listen.png)
+
+
 
 ## Task 9. Save Time & Effort: Don't Repeat Yourself
 
