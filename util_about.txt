@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2024-05-15 at 03:31 PM
+ Operating System: posix Darwin 23.5.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: arm64
+ Python Version: 3.12.3
+ Python Build Date and Compiler: v3.12.3:f6650f9ad7 with Apr  9 2024 08:18:47
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /Users/levilowther/ds-venv/streaming-03-rabbitmq/.venv/bin/python3
+ Path to virtual environment: /Users/levilowther/ds-venv/streaming-03-rabbitmq/.venv
+ Current Working Directory:   /Users/levilowther/ds-venv/streaming-03-rabbitmq
+ Path to source directory:    /Users/levilowther/ds-venv/streaming-03-rabbitmq
+ Path to script file:         /Users/levilowther/ds-venv/streaming-03-rabbitmq/util_about.py
+ User's Home Directory:       /Users/levilowther
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
