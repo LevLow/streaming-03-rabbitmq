@@ -122,7 +122,12 @@ Sending the same message each time is kind of boring. This time:
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
+
+## Levi's V1 emits
+
 ![v1 emits](./V1%20emit.png)
+
+## Levi's V1 Listens
 ![v1 listens](./v1%20listen.png)
 
 

@@ -1,0 +1,9 @@
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO ==================================================
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO Today is 2024-05-16 at 04:50 PM
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO Running on: posix Darwin 23.5.0
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO Python version:  3.12.3
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO Python path: /Users/levilowther/ds-venv/streaming-03-rabbitmq/.venv
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO Working dir: /Users/levilowther/ds-venv/streaming-03-rabbitmq
+2024-05-16 16:50:46,825.v2_listen_for_messages.INFO ==================================================
+2024-05-16 16:50:46,876.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-16 17:02:13,391.v2_listen_for_messages.INFO Received: Hello World!

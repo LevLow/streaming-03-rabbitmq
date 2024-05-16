@@ -1,5 +1,7 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
+    Levi Lowther Module 3
+    16May2024
 
 """
 

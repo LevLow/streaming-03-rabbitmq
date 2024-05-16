@@ -1,5 +1,6 @@
 """
-
+Levi Lowther Module 3
+16May2024
 Message sender / emitter 
 
 Description:
@@ -40,16 +41,16 @@ def send_message(host: str, queue_name: str, message: str):
 
     try:
         # create a blocking connection to the RabbitMQ server
-        conn = pika.BlockingConnection(pika.ConnectionParameters(host))
+        conn = pika.BlockingConnection(pika.ConnectionParameters("LOCALHOST"))
 
         # use the connection to create a communication channel
         ch = conn.channel()
 
         # use the channel to declare a queue
-        ch.queue_declare(queue=queue_name)
+        ch.queue_declare(queue="hello")
 
         # use the channel to publish a message to the queue
-        ch.basic_publish(exchange="", routing_key=queue_name, body=message)
+        ch.basic_publish(exchange="", routing_key="hello", body=message)
 
         # log a message for the user
         logger.info(f" [x] Sent {message}")
@@ -66,4 +67,4 @@ def send_message(host: str, queue_name: str, message: str):
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    send_message("llllocalhost", "hello", "Hello World!")
+    send_message("localhost", "hello", "Hello World!")
