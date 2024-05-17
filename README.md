@@ -130,11 +130,6 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 ## Levi's V1 Listens
 ![v1 listens](./v1%20listen.png)
 
-## Levi's V2 Emit
-![v2 emit](./V2%20emit.png)
-
-## Levi's V2 Listen
-![v2 listen](V2%20listen.png)
 
 
 
@@ -175,6 +170,13 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
+
+## Levi's V2 Emit
+![v2 emit](./V2%20emit.png)
+
+## Levi's V2 Listen
+![v2 listen](V2%20listen.png)
+
 
 ## Reference
 
